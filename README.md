@@ -11,11 +11,11 @@ An end-to-end data analytics project exploring NBA game statistics, player perfo
 ### Dashboard & Result
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="NBA Analytics Dashboard" width="800">
+  <img src="assets/dashboard.jpg" alt="NBA Analytics Dashboard" width="800">
 </p>
 
 <p align="center">
-  <img src="assets/rank3_result.png" alt="Competition Result - Rank 3" width="800">
+  <img src="assets/rank3_result.jpg" alt="Competition Result - Rank 3" width="800">
 </p>
 
 ---
