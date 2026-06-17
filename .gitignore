@@ -1,0 +1,35 @@
+# Python Virtual Environment
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Reports
+# *.pbix
+# *.csv
+# *.xlsx
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+data/interim/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs & temp files
+*.Logs
+*.tmp
+
+# Power BI / Exports
+dashboard/exports/
+dashboard/screenshots/
