@@ -40,8 +40,8 @@ Data sourced from Kaggle: [NBA Games Dataset](https://www.kaggle.com/datasets/na
 nba-analytics-dashboard/
 │
 ├── data/
-│   ├── raw/                  # Original CSVs (not tracked by git)
-│   └── processed/            # Cleaned and feature-engineered CSVs (not tracked by git)
+│   ├── raw/                  
+│   └── processed/           
 │
 ├── notebooks/
 │   ├── 01_data_loading_and_cleaning.ipynb
