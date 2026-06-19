@@ -126,10 +126,10 @@ notebooks/02_feature_engineering_and_eda.ipynb
 | `teams_cleaned.csv` | Cleaned teams metadata |
 
 ---
-📧 **Email** — [jayavarshinijayakumaran11@gmail.com](mailto:jayavarshinijayakumaran11@gmail.com)
+📧 **Email** - [jayavarshinijayakumaran11@gmail.com](mailto:jayavarshinijayakumaran11@gmail.com)
 
-🙌 **Connect** — [LinkedIn: Jayavarshini Jayakumaran](https://www.linkedin.com/in/jayavarshini-jayakumaran)
+🙌 **Connect** - [LinkedIn: Jayavarshini Jayakumaran](https://www.linkedin.com/in/jayavarshini-jayakumaran)
 
-📄 **License** — [MIT](LICENSE)
+📄 **License** - [MIT](LICENSE)
 
 <p align="center"><b>Finish what you started 💻</b></p>
